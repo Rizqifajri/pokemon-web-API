@@ -12,7 +12,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className='bg-yellow-500 min-h-screen '>
+    <div className='bg-yellow-100 min-h-screen '>
       <Header/>
       <div className='flex w-full justify-between'>
       <CardList/>
