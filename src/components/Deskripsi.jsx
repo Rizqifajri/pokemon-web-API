@@ -4,7 +4,7 @@ import element from '../assets/petirpng.png'
 
 const Deskripsi = () => {
   return (
-    <div className='bg-yellow-300 shadow-2xl bg-opacity-25 w-[500px] p-4 h-auto mt-24 rounded-lg font-bold text-6xl text-center'>
+    <div className='bg-yellow-300 shadow-2xl bg-opacity-25 w-[500px] p-4 h-max mt-60 rounded-lg font-bold text-6xl text-center'>
       <h1 className='poppins-font'>PikaChu</h1>
       
       <div className='flex flex-col items-center '>
